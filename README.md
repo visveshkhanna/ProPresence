@@ -1,6 +1,6 @@
 ## ProPresence
 
-ProPresence, a application built with flutter and python to ease the employee check in and check out with minimal interface.
+ProPresence, a face recognition application built with flutter and python to ease the employee check in and check out with minimal interface.
 
 ## Interface
 <table>
@@ -14,6 +14,7 @@ ProPresence, a application built with flutter and python to ease the employee ch
 <img src="https://raw.githubusercontent.com/visveshkhanna/ProPresence/main/assets/1_dd8.png" alt="blueprint" />
 
 ## Features
+- Has live camera where users can scan their face by clicking either of the buttons.
 - Used to check in and check out from the office with facial recognition
 - Uses face recognition api from python, and fast api as the backend server.
 - Train all the employee pictures with the employee data
