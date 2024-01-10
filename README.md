@@ -53,5 +53,8 @@ This app was developed by [Visvesh Khanna](https://github.com/visveshkhanna), wi
 3. [face_recognition](https://github.com/ageitgey/face_recognition)
 4. [fastapi](https://github.com/tiangolo/fastapi)
 
+## Image Credits
+The image shown in the screen shot is [Emma Watson](https://www.instagram.com/emmawatson)
+
 ## License
 This app is licensed under the <a href="https://github.com/visveshkhanna/ProPresence/LICENCE">MIT License</a>.
